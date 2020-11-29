@@ -3,4 +3,4 @@
 
 ## Demo (gif)
 
-![](Moody.gif)
+![](csrpdemo.gif)
